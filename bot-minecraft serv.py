@@ -72,4 +72,4 @@ async def check_server_status(channel):
 
 
 client.run(
-  'MTEyNDMxNzc3ODkzMzk4NTMxMQ.GDFrRh.O8YY7z2_MeURIMVA4ktaCvojrsb_RrNg4r2RWc')
+  'your token')
