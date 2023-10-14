@@ -12,7 +12,7 @@ need to allow rcon port  :25575
 
 <h3>start.sh :</h3>
 <p>Create a shell file and put in the minecraft start command </p> 
-``` 
+```bash
 java -Xmx1024M -Xms1024M -jar minecraft_server.1.20.2.jar nogui  
 ``` 
 <br> 
