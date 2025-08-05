@@ -1,6 +1,6 @@
 # minecraft-bot-discord
 
-# Requiered
+# Requierements
 In server properties :
 - enable rcon
 - enable query
@@ -21,5 +21,12 @@ like this
     "api_key" : "your discord bot api_key",
     "my_discord_id" : your id for manage start/stop of your server with the bot
 }
-`̀ `
+```
 
+
+Module :
+```
+pip install mcrcon
+pip install discord
+pip install mcstatus
+```
