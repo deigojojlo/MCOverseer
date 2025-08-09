@@ -1,4 +1,4 @@
-# minecraft-bot-discord
+# MCOverseer
 
 # Requierements
 In server properties :
